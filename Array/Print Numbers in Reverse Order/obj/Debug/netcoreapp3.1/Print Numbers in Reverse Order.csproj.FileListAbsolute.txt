@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.csprojAssemblyReference.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.genruntimeconfig.cache

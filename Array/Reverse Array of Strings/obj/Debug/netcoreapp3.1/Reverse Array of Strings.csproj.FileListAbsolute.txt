@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\bin\Debug\netcoreapp3.1\Reverse Array of Strings.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Reverse Array of Strings\obj\Debug\netcoreapp3.1\Reverse Array of Strings.genruntimeconfig.cache

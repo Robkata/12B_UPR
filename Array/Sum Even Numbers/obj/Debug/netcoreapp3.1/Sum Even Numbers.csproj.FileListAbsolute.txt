@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Array\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.genruntimeconfig.cache
