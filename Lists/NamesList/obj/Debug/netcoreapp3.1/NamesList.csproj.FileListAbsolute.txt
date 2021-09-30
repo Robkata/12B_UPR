@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\bin\Debug\netcoreapp3.1\NamesList.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NamesList\obj\Debug\netcoreapp3.1\NamesList.genruntimeconfig.cache

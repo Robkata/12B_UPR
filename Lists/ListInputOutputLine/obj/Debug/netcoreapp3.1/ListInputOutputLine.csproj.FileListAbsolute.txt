@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.csprojAssemblyReference.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.genruntimeconfig.cache

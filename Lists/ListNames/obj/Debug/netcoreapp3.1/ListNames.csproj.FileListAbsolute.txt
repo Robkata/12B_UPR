@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\bin\Debug\netcoreapp3.1\ListNames.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.csprojAssemblyReference.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\ListNames\obj\Debug\netcoreapp3.1\ListNames.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.exe
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.deps.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.runtimeconfig.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.runtimeconfig.dev.json
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\bin\Debug\netcoreapp3.1\NumbersList.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.AssemblyInfo.cs
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.dll
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.pdb
+C:\Users\Student\Documents\12B_UPR\12B_UPR\Lists\NumbersList\obj\Debug\netcoreapp3.1\NumbersList.genruntimeconfig.cache
